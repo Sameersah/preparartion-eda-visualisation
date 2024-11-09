@@ -54,7 +54,7 @@ For each dataset, the following analyses were performed:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/ankitojha2705/DataPreparation_eda_visualizatoin.git
 ## Download datasets using kagglehub
 import kagglehub
 
